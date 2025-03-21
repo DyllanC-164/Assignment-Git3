@@ -1,1 +1,2 @@
-Unable to initialize device PRN
+Print("Hello World")
+
